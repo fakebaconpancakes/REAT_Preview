@@ -1,4 +1,4 @@
-# REAT: Resource-Efficient Ante Hoc Architecture for 3D Skeleton-Based Human Action Recognition
+# REAT: Resource-Efficient Ante Hoc Architecture for 3D Skeleton-Based Human Action Recognition Preview
 
 > A lightweight, explainable deep-learning pipeline for recognizing human actions from 3D skeleton sequences while exposing the spatial and temporal evidence used by the model.
 
